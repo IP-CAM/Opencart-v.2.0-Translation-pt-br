@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Banner';
+$_['heading_title']    = 'bandeira';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified banner module!';
-$_['text_edit']        = 'Edit Banner Module';
+$_['text_module']      = 'módulos';
+$_['text_success']     = 'Sucesso : Você modificou módulo bandeira !';
+$_['text_edit']        = 'Editar Módulo Bandeira';
 
 // Entry
-$_['entry_banner']     = 'Banner';
-$_['entry_dimension']  = 'Dimension (W x H) and Resize Type';
-$_['entry_width']      = 'Width';
-$_['entry_height']     = 'Height';
-$_['entry_status']     = 'Status';
+$_['entry_banner']     = 'bandeira';
+$_['entry_dimension']  = 'Dimensão ( W x H) e Redimensionar Tipo';
+$_['entry_width']      = 'largura';
+$_['entry_height']     = 'altura';
+$_['entry_status']     = 'estado';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify banner module!';
-$_['error_dimension']  = 'Width &amp; Height dimensions required!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar módulo bandeira !';
+$_['error_dimension']  = 'Largura & amp ; As dimensões da altura necessária!';

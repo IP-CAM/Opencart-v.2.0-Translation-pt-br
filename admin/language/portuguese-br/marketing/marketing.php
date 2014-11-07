@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']     = 'Marketing Tracking';
+$_['heading_title']     = 'Rastreamento de Marketing';
 
 // Text
-$_['text_success']      = 'Success: You have modified marketing tracking!';
-$_['text_list']         = 'Marketing Tracking List';
-$_['text_add']          = 'Add Marketing Tracking';
-$_['text_edit']         = 'Edit Marketing Tracking';
+$_['text_success']      = 'Sucesso : Você modificou rastreamento marketing!';
+$_['text_list']         = 'Lista de Rastreamento de Marketing';
+$_['text_add']          = 'Adicione Marketing de Rastreamento';
+$_['text_edit']         = 'Editar Rastreamento de Marketing';
 
 // Column
-$_['column_name']       = 'Campaign Name';
-$_['column_code']       = 'Code';
-$_['column_clicks']     = 'Clicks';
-$_['column_orders']     = 'Orders';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome da campanha';
+$_['column_code']       = 'código';
+$_['column_clicks']     = 'cliques';
+$_['column_orders']     = 'encomendas';
+$_['column_date_added'] = 'data adicionada';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_name']        = 'Campaign Name';
-$_['entry_description'] = 'Campaign Description';
-$_['entry_code']        = 'Tracking Code';
-$_['entry_example']     = 'Examples';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_name']        = 'Nome da campanha';
+$_['entry_description'] = 'campanha Descrição';
+$_['entry_code']        = 'Código de controlo';
+$_['entry_example']     = 'Exemplos';
+$_['entry_date_added']  = 'data adicionada';
 
 // Help
-$_['help_code']         = 'The tracking code that will be used to marketing track campaigns.';
-$_['help_example']      = 'So the system can track refferals you neeed to add the tracking code to the end of the URL linking to your site.';
+$_['help_code']         = 'O código de rastreamento que será usado para campanhas de pista marketing.';
+$_['help_example']      = 'Assim, o sistema pode rastrear refferals você neeed para adicionar o código de acompanhamento ao final da URL ligando para o seu site.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify marketing tracking!';
-$_['error_name']        = 'Campaign must be between 1 and 32 characters!';
-$_['error_code']        = 'Tracking Code required!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar rastreamento marketing!';
+$_['error_name']        = 'Campanha deve ter entre 1 e 32 caracteres !';
+$_['error_code']        = 'Código de acompanhamento necessário!';

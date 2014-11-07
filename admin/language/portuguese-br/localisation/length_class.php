@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Length Classes';
+$_['heading_title']    = 'comprimento Classes';
 
 // Text
-$_['text_success']     = 'Success: You have modified length classes!';
-$_['text_list']        = 'Length Class List';
-$_['text_add']         = 'Add Length Class';
-$_['text_edit']        = 'Edit Length Class';
+$_['text_success']     = 'Sucesso : Você modificou classes de comprimento !';
+$_['text_list']        = 'Comprimento Lista de Classes';
+$_['text_add']         = 'Adicionar Comprimento Classe';
+$_['text_edit']        = 'Editar Comprimento Classe';
 
 // Column
-$_['column_title']     = 'Length Title';
-$_['column_unit']      = 'Length Unit';
+$_['column_title']     = 'comprimento Título';
+$_['column_unit']      = 'Corpo Unidade';
 $_['column_value']     = 'Value';
 $_['column_action']    = 'Action';
 

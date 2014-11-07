@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']        = 'Tax Rates';
+$_['heading_title']        = 'Taxas de imposto';
 
 // Text
-$_['text_success']         = 'Success: You have modified tax rates!';
-$_['text_list']            = 'Tax Rate List';
-$_['text_add']             = 'Add Tax Rate';
-$_['text_edit']            = 'Edit Tax Rate';
-$_['text_percent']         = 'Percentage';
-$_['text_amount']          = 'Fixed Amount';
+$_['text_success']         = 'Sucesso : Você modificou as taxas de imposto !';
+$_['text_list']            = 'Taxa de Imposto Lista';
+$_['text_add']             = 'Adicionar Taxa de imposto';
+$_['text_edit']            = 'Editar Taxa de Imposto';
+$_['text_percent']         = 'percentagem';
+$_['text_amount']          = 'Valor Fixo';
 
 // Column
-$_['column_name']          = 'Tax Name';
-$_['column_rate']          = 'Tax Rate';
-$_['column_type']          = 'Type';
-$_['column_geo_zone']      = 'Geo Zone';
-$_['column_date_added']    = 'Date Added';
-$_['column_date_modified'] = 'Date Modified';
-$_['column_action']        = 'Action';
+$_['column_name']          = 'Nome imposto';
+$_['column_rate']          = 'Taxa de Imposto';
+$_['column_type']          = 'tipo';
+$_['column_geo_zone']      = 'Zona Geo';
+$_['column_date_added']    = 'data adicionada';
+$_['column_date_modified'] = 'data de modificação';
+$_['column_action']        = 'ação';
 
 // Entry
-$_['entry_name']           = 'Tax Name';
-$_['entry_rate']           = 'Tax Rate';
-$_['entry_type']           = 'Type';
-$_['entry_customer_group'] = 'Customer Group';
-$_['entry_geo_zone']       = 'Geo Zone';
+$_['entry_name']           = 'Nome imposto';
+$_['entry_rate']           = 'Taxa de Imposto';
+$_['entry_type']           = 'tipo';
+$_['entry_customer_group'] = 'Grupo de clientes';
+$_['entry_geo_zone']       = 'Zona Geo';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify tax rates!';
-$_['error_tax_rule']       = 'Warning: This tax rate cannot be deleted as it is currently assigned to %s tax classes!';
-$_['error_name']           = 'Tax Name must be between 3 and 32 characters!';
-$_['error_rate']           = 'Tax Rate required!';
+$_['error_permission']     = 'Atenção: Você não tem permissão para modificar as taxas de imposto !';
+$_['error_tax_rule']       = 'Aviso: Esta taxa de imposto não pode ser excluída como é atualmente atribuído a classes de impostos %s !';
+$_['error_name']           = 'Nome Imposto devem ter entre 3 e 32 caracteres !';
+$_['error_rate']           = 'Taxa de imposto exigido!';

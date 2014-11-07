@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'Classes fiscais';
 
 // Text
-$_['text_success']      = 'Success: You have modified tax classes!';
-$_['text_list']         = 'Tax Class List';
-$_['text_add']          = 'Add Tax Class';
-$_['text_edit']         = 'Edit Tax Class';
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
-$_['text_store']        = 'Store Address';
+$_['text_success']      = 'Sucesso : Você modificou as classes fiscais !';
+$_['text_list']         = 'Lista Classe Imposto';
+$_['text_add']          = 'Adicione a classe Imposto';
+$_['text_edit']         = 'Editar Classe de Impostos';
+$_['text_shipping']     = 'Endereço para envio';
+$_['text_payment']      = 'Endereço pagamento';
+$_['text_store']        = 'Endereço da Loja';
 
 // Column
-$_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Imposto Classe Título';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
-$_['entry_rate']        = 'Tax Rate';
-$_['entry_based']       = 'Based On';
-$_['entry_geo_zone']    = 'Geo Zone';
-$_['entry_priority']    = 'Priority';
+$_['entry_title']       = 'Imposto Classe Título';
+$_['entry_description'] = 'descrição';
+$_['entry_rate']        = 'Taxa de Imposto';
+$_['entry_based']       = 'baseado em';
+$_['entry_geo_zone']    = 'Zona Geo';
+$_['entry_priority']    = 'prioridade';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
-$_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
-$_['error_description'] = 'Description must be between 3 and 255 characters!';
-$_['error_product']     = 'Warning: This tax class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as classes de impostos !';
+$_['error_title']       = 'Imposto Classe Título devem ter entre 3 e 32 caracteres !';
+$_['error_description'] = 'A descrição deve ter entre 3 e 255 caracteres !';
+$_['error_product']     = 'Aviso: classe Este imposto não pode ser excluída como é atualmente atribuída a %s produtos !';

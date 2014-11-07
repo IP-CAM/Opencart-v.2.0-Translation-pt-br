@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']    = 'Order Statuses';
+$_['heading_title']    = 'Pedidos status';
 
 // Text
-$_['text_success']     = 'Success: You have modified order statuses!';
-$_['text_list']        = 'Order Status List';
-$_['text_add']         = 'Add Order Status';
-$_['text_edit']        = 'Edit Order Status';
+$_['text_success']     = 'Sucesso : Você modificou status do pedido !';
+$_['text_list']        = 'Lista Status do Pedido';
+$_['text_add']         = 'Adicionar Status do pedido';
+$_['text_edit']        = 'Editar Status do pedido';
 
 // Column
-$_['column_name']      = 'Order Status Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Status do pedido Nome';
+$_['column_action']    = 'ação';
 
 // Entry
-$_['entry_name']       = 'Order Status Name';
+$_['entry_name']       = 'Status do pedido Nome';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify order statues!';
-$_['error_name']       = 'Order Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This order status cannot be deleted as it is currently assigned as the default store order status!';
-$_['error_download']   = 'Warning: This order status cannot be deleted as it is currently assigned as the default download status!';
-$_['error_store']      = 'Warning: This order status cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']      = 'Warning: This order status cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar estátuas de ordem !';
+$_['error_name']       = 'Status do pedido Nome devem ter entre 3 e 32 caracteres !';
+$_['error_default']    = 'Aviso: Este estatuto ordem não pode ser excluída como é atualmente designado como o status da ordem de armazenamento padrão !';
+$_['error_download']   = 'Aviso: Este estatuto ordem não pode ser excluída como é atualmente designado como o estado padrão de download !';
+$_['error_store']      = 'Aviso: Este estatuto ordem não pode ser excluída como é atualmente atribuída a lojas %s !';
+$_['error_order']      = 'Aviso: Este estatuto ordem não pode ser excluída como é atualmente atribuída a ordens %s !';

@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Reasons';
+$_['heading_title']    = 'Retorno Razões';
 
 // Text
-$_['text_success']     = 'Success: You have modified return reasons!';
-$_['text_list']        = 'Layout List';
-$_['text_add']         = 'Add Return Reason';
-$_['text_edit']        = 'Edit Return Reason';
+$_['text_success']     = 'Sucesso : Você modificou razões de retorno !';
+$_['text_list']        = 'Lista de layout';
+$_['text_add']         = 'Adicionar Retorno Razão';
+$_['text_edit']        = 'Editar Retorno Razão';
 
 // Column
-$_['column_name']      = 'Return Reason Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Retorno Razão Nome';
+$_['column_action']    = 'ação';
 
 // Entry
-$_['entry_name']       = 'Return Reason Name';
+$_['entry_name']       = 'Retorno Razão Nome';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return reasons!';
-$_['error_name']       = 'Return Reason Name must be between 3 and 128 characters!';
-$_['error_return']     = 'Warning: This return reason cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar razões de retorno !';
+$_['error_name']       = 'Retorno Razão nome deve ter entre 3 e 128 caracteres !';
+$_['error_return']     = 'Aviso: Este motivo de retorno não pode ser excluída como é atualmente atribuída a %s produtos devolvidos !';

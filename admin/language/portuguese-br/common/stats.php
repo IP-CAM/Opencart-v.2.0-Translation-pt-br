@@ -1,4 +1,4 @@
 <?php
-$_['text_complete_status']   = 'Orders Completed'; 
-$_['text_processing_status'] = 'Orders Processing'; 
-$_['text_other_status']      = 'Other Statuses'; 
+$_['text_complete_status']   = 'pedidos concluídos'; 
+$_['text_processing_status'] = 'processamento de pedidos'; 
+$_['text_other_status']      = 'outros status'; 

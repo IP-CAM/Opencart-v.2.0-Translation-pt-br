@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']          = 'Categories';
+$_['heading_title']          = 'Categorias';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
-$_['text_list']              = 'Category List';
-$_['text_add']               = 'Add Category';
-$_['text_edit']              = 'Edit Category';
-$_['text_default']           = 'Default';
+$_['text_success']           = 'Sucesso : Você tem categorias modificados !';
+$_['text_list']              = 'Lista de categorias';
+$_['text_add']               = 'Adicionar categoria';
+$_['text_edit']              = 'Editar categoria';
+$_['text_default']           = 'omissão';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nome da Categoria';
+$_['column_sort_order']      = 'Ordem de classificação';
+$_['column_action']          = 'ação';
 
 // Entry
-$_['entry_name']             = 'Category Name';
-$_['entry_description']      = 'Description';
+$_['entry_name']             = 'Nome da Categoria';
+$_['entry_description']      = 'descrição';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
+$_['entry_meta_keyword'] 	 = 'Meta tag Keywords';
+$_['entry_meta_description'] = 'Meta Tag Descrição';
 $_['entry_keyword']          = 'SEO Keyword';
-$_['entry_parent']           = 'Parent';
-$_['entry_filter']           = 'Filters';
-$_['entry_store']            = 'Stores';
-$_['entry_image']            = 'Image';
-$_['entry_top']              = 'Top';
-$_['entry_column']           = 'Columns';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_status']           = 'Status';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_parent']           = 'principal';
+$_['entry_filter']           = 'filtros';
+$_['entry_store']            = 'lojas';
+$_['entry_image']            = 'imagem';
+$_['entry_top']              = 'topo';
+$_['entry_column']           = 'colunas';
+$_['entry_sort_order']       = 'Ordem de classificação';
+$_['entry_status']           = 'estado';
+$_['entry_layout']           = 'Substituir layout';
 
 // Help
-$_['help_filter']            = '(Autocomplete)';
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
-$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
+$_['help_filter']            = '( Autocomplete )';
+$_['help_keyword']           = 'Não utilize espaços , substituindo os espaços com - e certifique-se a palavra-chave é único a nível mundial .';
+$_['help_top']               = 'Exibição na barra de menu superior. Só funciona para as categorias pai de topo.';
+$_['help_column']            = 'Número de colunas a ser usado para o fundo de três categorias. Só funciona para as categorias pai de topo.';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify categories!';
-$_['error_name']             = 'Category Name must be between 2 and 32 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
+$_['error_warning']          = 'Aviso: Por favor, verifique a forma com cuidado os erros !';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar categorias!';
+$_['error_name']             = 'Nome da categoria deve estar entre 2 e 32 caracteres !';
+$_['error_meta_title']       = 'Meta Título deve ser maior que 3 e menos de 255 caracteres !';

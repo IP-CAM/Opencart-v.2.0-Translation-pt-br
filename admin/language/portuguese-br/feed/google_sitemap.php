@@ -4,12 +4,12 @@ $_['heading_title']    = 'Google Sitemap';
 
 // Text
 $_['text_feed']        = 'Feeds';
-$_['text_success']     = 'Success: You have modified Google Sitemap feed!';
-$_['text_list']        = 'Layout List';
+$_['text_success']     = 'Sucesso : Você modificou Mapa do feed do Google !';
+$_['text_list']        = 'Lista de layout';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'estado';
 $_['entry_data_feed']  = 'Data Feed Url';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Sitemap feed!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar Google Sitemap alimentar !';

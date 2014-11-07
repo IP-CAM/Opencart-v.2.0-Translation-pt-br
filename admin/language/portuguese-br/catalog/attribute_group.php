@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Attribute Groups';
+$_['heading_title']     = 'Atributo Grupos';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
-$_['text_list']         = 'Attribute Group List';
-$_['text_add']          = 'Add Attribute Group';
-$_['text_edit']         = 'Edit Attribute Group';
+$_['text_success']      = 'Sucesso : Você modificou grupos de atributos !';
+$_['text_list']         = 'Atributo Lista Grupo';
+$_['text_add']          = 'Adicionar atributo de Grupo';
+$_['text_edit']         = 'Editar Atributo Grupo';
 
 // Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Atributo Nome do Grupo';
+$_['column_sort_order'] = 'Ordem de classificação';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_name']        = 'Attribute Group Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_name']        = 'Atributo Nome do Grupo';
+$_['entry_sort_order']  = 'Ordem de classificação';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 3 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar grupos de atributos !';
+$_['error_name']        = 'Atributo Nome do grupo devem ter entre 3 e 64 caracteres !';
+$_['error_attribute']   = 'Aviso: Este grupo de atributos não podem ser excluídos , como é atualmente atribuída aos atributos % s !';
+$_['error_product']     = 'Aviso: Este grupo de atributos não podem ser excluídos , como é atualmente atribuída a % s produtos !';

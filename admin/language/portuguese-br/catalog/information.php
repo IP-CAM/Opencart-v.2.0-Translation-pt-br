@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'informações';
 
 // Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
+$_['text_success']           = 'Sucesso : Você tem informações modificadas !';
+$_['text_list']              = 'Lista de Informações';
+$_['text_add']               = 'Adicionar informação';
+$_['text_edit']              = 'Editar informações';
+$_['text_default']           = 'omissão';
 
 // Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']	     = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_title']           = 'informações Título';
+$_['column_sort_order']	     = 'Ordem de classificação';
+$_['column_action']          = 'ação';
 
 // Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_store']            = 'Stores';
+$_['entry_title']            = 'informações Título';
+$_['entry_description']      = 'descrição';
+$_['entry_store']            = 'lojas';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
+$_['entry_meta_keyword'] 	 = 'Meta tag Keywords';
+$_['entry_meta_description'] = 'Meta Tag Descrição';
 $_['entry_keyword']          = 'SEO Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_bottom']           = 'fundo';
+$_['entry_status']           = 'estado';
+$_['entry_sort_order']       = 'Ordem de classificação';
+$_['entry_layout']           = 'Substituir layout';
 
 // Help
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_keyword']           = 'Não utilize espaços , substituindo os espaços com - e certifique-se a palavra-chave é único a nível mundial .';
+$_['help_bottom']            = 'Exibição no rodapé inferior.';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 3 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as its currently used by %s stores!';
+$_['error_warning']          = 'Aviso: Por favor, verifique a forma com cuidado os erros !';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar as informações !';
+$_['error_title']            = 'Informações Título devem ter entre 3 e 64 caracteres !';
+$_['error_description']      = 'A descrição deve ser mais de 3 caracteres !';
+$_['error_meta_title']       = 'Meta Título deve ser maior que 3 e menos de 255 caracteres !';
+$_['error_account']          = 'Aviso: Esta página de informações não podem ser excluídos , como é atualmente designado como os termos de contas loja!';
+$_['error_checkout']         = 'Aviso: Esta página de informações não podem ser excluídos , como é atualmente designado como os termos de checkout loja !';
+$_['error_affiliate']        = 'Aviso: Esta página de informações não podem ser excluídos , como é atualmente designado como os termos loja filial!';
+$_['error_return']           = 'Aviso: Esta página de informações não podem ser excluídos , como é atualmente designado como os termos loja de retorno !';
+$_['error_store']            = 'Aviso: Esta página de informações não pode ser excluído como atualmente usados ​​por lojas de % s !';

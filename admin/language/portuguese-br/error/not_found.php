@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']  = 'Page Not Found!';
+$_['heading_title']  = 'Página não encontrada !';
 
 // Text
-$_['text_not_found'] = 'The page you are looking for could not be found! Please contact your administrator if the problem persists.';
+$_['text_not_found'] = 'A página que você está procurando não pode ser encontrado ! Entre em contato com o administrador se o problema persistir .';

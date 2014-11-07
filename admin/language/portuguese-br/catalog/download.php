@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']     = 'Downloads';
+$_['heading_title']     = 'transferências';
 
 // Text
-$_['text_success']      = 'Success: You have modified downloads!';
-$_['text_list']         = 'Download List';
-$_['text_add']          = 'Add Download';
-$_['text_edit']         = 'Edit Download';
-$_['text_upload']       = 'Your file was successfully uploaded!';
+$_['text_success']      = 'Sucesso : Você tem de downloads modificados !';
+$_['text_list']         = 'Lista de Transferências';
+$_['text_add']          = 'Adicionar Download';
+$_['text_edit']         = 'Editar Baixar';
+$_['text_upload']       = 'Seu arquivo foi enviado com sucesso!';
 
 // Column
-$_['column_name']       = 'Download Name';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Baixar Nome';
+$_['column_date_added'] = 'data adicionada';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_name']        = 'Download Name';
-$_['entry_filename']    = 'Filename';
-$_['entry_mask']        = 'Mask';
+$_['entry_name']        = 'Baixar Nome';
+$_['entry_filename']    = 'nome do arquivo';
+$_['entry_mask']        = 'mascarar';
 
 // Help
-$_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the download directory and enter the details below.';
-$_['help_mask']         = 'It is recommended that the filename and the mask are different to stop people trying to directly link to your downloads.';
+$_['help_filename']     = 'Você pode fazer o upload através do botão upload ou usar o FTP para fazer o upload para o diretório de download e digite os detalhes abaixo.';
+$_['help_mask']         = 'Recomenda-se que o nome do arquivo ea máscara são diferentes para impedir que as pessoas que tentam ligar diretamente para seus downloads.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify downloads!';
-$_['error_name']        = 'Download Name must be between 3 and 64 characters!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 128 characters!';
-$_['error_exists']      = 'File does not exist!';
-$_['error_mask']        = 'Mask must be between 3 and 128 characters!';
-$_['error_filetype']    = 'Invalid file type!';
-$_['error_product']     = 'Warning: This download cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar de downloads !';
+$_['error_name']        = 'Download de nome deve ter entre 3 e 64 caracteres !';
+$_['error_upload']      = 'Carregar necessário!';
+$_['error_filename']    = 'Matrícula deve estar entre 3 e 128 caracteres !';
+$_['error_exists']      = 'Arquivo não existe !';
+$_['error_mask']        = 'Máscara deve ser entre 3 e 128 caracteres !';
+$_['error_filetype']    = 'Tipo de arquivo inválido !';
+$_['error_product']     = 'Aviso: Este download não pode ser excluída como é atualmente atribuída a % s produtos !';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Modules';
+$_['heading_title']    = 'módulos';
 
 // Text
-$_['text_success']     = 'Success: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_list']        = 'Module List';
+$_['text_success']     = 'Sucesso : Você tem módulos modificados !';
+$_['text_layout']      = 'Depois de ter instalado e configurado um módulo que você pode adicioná-lo a um layout <a href="%s" class="alert-link"> aqui </a> !';
+$_['text_list']        = 'Lista Módulo';
 
 // Column
-$_['column_name']      = 'Module Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome do Módulo';
+$_['column_action']    = 'ação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os módulos !';

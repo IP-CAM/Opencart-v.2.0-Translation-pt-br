@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'Últimas Encomendas';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
-$_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_order_id']   = 'Pedido ID';
+$_['column_customer']   = 'cliente';
+$_['column_status']     = 'estado';
+$_['column_total']      = 'total';
+$_['column_date_added'] = 'data adicionada';
+$_['column_action']     = 'ação';

@@ -1,51 +1,51 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Profiles';
+$_['heading_title']                        = 'Perfis recorrentes';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
-$_['text_list']                            = 'Recurring Profile List';
-$_['text_add']                             = 'Add Recurring Profile';
-$_['text_edit']                            = 'Edit Recurring Profile';
-$_['text_payment_profiles']                = 'Recurring Profiles';
-$_['text_status_active']                   = 'Active';
-$_['text_status_inactive']                 = 'Inactive';
-$_['text_status_cancelled']                = 'Cancelled';
-$_['text_status_suspended']                = 'Suspended';
-$_['text_status_expired']                  = 'Expired';
-$_['text_status_pending']                  = 'Pending';
-$_['text_transactions']                    = 'Transactions';
-$_['text_cancel_confirm']                  = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
-$_['text_transaction_date_added']          = 'Date added';
-$_['text_transaction_payment'] 			   = 'Payment';
-$_['text_transaction_outstanding_payment'] = 'Outstanding payment';
-$_['text_transaction_skipped']             = 'Payment skipped';
-$_['text_transaction_failed']              = 'Payment failed';
-$_['text_transaction_cancelled']           = 'Cancelled';
-$_['text_transaction_suspended']           = 'Suspended';
-$_['text_transaction_suspended_failed']    = 'Suspended from failed payment';
-$_['text_transaction_outstanding_failed']  = 'Outstanding payment failed';
-$_['text_transaction_expired']             = 'Expired';
+$_['text_success']                         = 'Sucesso : Você modificou perfis recorrentes !';
+$_['text_list']                            = 'Lista de perfis recorrente';
+$_['text_add']                             = 'Adicionar Perfil Recorrente';
+$_['text_edit']                            = 'Edite Recorrente perfil';
+$_['text_payment_profiles']                = 'Perfis recorrentes';
+$_['text_status_active']                   = 'ativo';
+$_['text_status_inactive']                 = 'inativo';
+$_['text_status_cancelled']                = 'Cancelado';
+$_['text_status_suspended']                = 'suspenso';
+$_['text_status_expired']                  = 'expirado';
+$_['text_status_pending']                  = 'pendente';
+$_['text_transactions']                    = 'transações';
+$_['text_cancel_confirm']                  = 'Cancelamento Perfil \'s não pode ser desfeita ! Tem certeza que deseja fazer isso?';
+$_['text_transaction_date_added']          = 'data adicionada';
+$_['text_transaction_payment'] 			   = 'pagamento';
+$_['text_transaction_outstanding_payment'] = 'pagamento pendente';
+$_['text_transaction_skipped']             = 'pagamento ignorado';
+$_['text_transaction_failed']              = 'pagamento falhou';
+$_['text_transaction_cancelled']           = 'Cancelado';
+$_['text_transaction_suspended']           = 'suspenso';
+$_['text_transaction_suspended_failed']    = 'Suspenso do pagamento falhou';
+$_['text_transaction_outstanding_failed']  = 'Pagamento pendente falhou';
+$_['text_transaction_expired']             = 'expirado';
 
 // Entry
-$_['entry_cancel_payment']                 = 'Cancel Payment';
-$_['entry_order_recurring']                = 'ID';
+$_['entry_cancel_payment']                 = 'Anular Pagamento';
+$_['entry_order_recurring']                = 'identidade';
 $_['entry_order_id']                       = 'Order ID';
-$_['entry_reference']                      = 'Payment Reference';
-$_['entry_customer']                       = 'Customer';
-$_['entry_date_added']                     = 'Date Added';
-$_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
+$_['entry_reference']                      = 'Referência de pagamento';
+$_['entry_customer']                       = 'cliente';
+$_['entry_date_added']                     = 'data adicionada';
+$_['entry_status']                         = 'estado';
+$_['entry_type']                           = 'tipo';
+$_['entry_action']                         = 'ação';
 $_['entry_email']                          = 'Email';
-$_['entry_description']                    = 'Recurring Profile\'s description';
-$_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
-$_['entry_amount']                         = 'Amount';
-$_['entry_recurring']                      = 'Recurring Profile';
-$_['entry_payment_method']                 = 'Payment Method';
+$_['entry_description']                    = 'Descrição Recorrente perfil(s)';
+$_['entry_product']                        = 'produto';
+$_['entry_quantity']                       = 'quantidade';
+$_['entry_amount']                         = 'quantidade';
+$_['entry_recurring']                      = 'perfil recorrente';
+$_['entry_payment_method']                 = 'método de pagamento';
 
 // Error / Success
-$_['error_not_cancelled']                  = 'Error: %s';
-$_['error_not_found']                      = 'Could not cancel recurring profile';
-$_['text_cancelled']                    = 'Recurring payment has been cancelled';
+$_['error_not_cancelled']                  = 'Erro: %s';
+$_['error_not_found']                      = 'Não foi possível cancelar perfil recorrentes';
+$_['text_cancelled']                    = 'Pagamento recorrente foi cancelada';

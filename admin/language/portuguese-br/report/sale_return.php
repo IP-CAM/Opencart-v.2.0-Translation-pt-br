@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Returns Report';
+$_['heading_title']     = 'retorna Relatório';
 
 // Text
-$_['text_list']         = 'Returns List';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'Lista Devoluções';
+$_['text_year']         = 'anos';
+$_['text_month']        = 'meses';
+$_['text_week']         = 'semanas';
+$_['text_day']          = 'dias';
+$_['text_all_status']   = 'Todos os status';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_returns']    = 'No. Returns';
+$_['column_date_start'] = 'data de Início';
+$_['column_date_end']   = 'data de Término';
+$_['column_returns']    = 'No. Devoluções';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Return Status';
+$_['entry_date_start']  = 'data de Início';
+$_['entry_date_end']    = 'data de Término';
+$_['entry_group']       = 'Agrupar por';
+$_['entry_status']      = 'status de Retorno';

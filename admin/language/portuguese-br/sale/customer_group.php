@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']     = 'Customer Groups';
+$_['heading_title']     = 'Grupos de clientes';
 
 // Text
-$_['text_success']      = 'Success: You have modified customer groups!';
-$_['text_list']         = 'Customer Group List';
-$_['text_add']          = 'Add Customer Group';
-$_['text_edit']         = 'Edit Customer Group';
+$_['text_success']      = 'Sucesso : Você modificou grupos de clientes !';
+$_['text_list']         = 'Lista Grupo Cliente';
+$_['text_add']          = 'Adicionar Grupo de Clientes';
+$_['text_edit']         = 'Editar Grupo de Cliente';
 
 // Column
-$_['column_name']       = 'Customer Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome do Grupo de Cliente';
+$_['column_sort_order'] = 'Ordem de classificação';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_name']        = 'Customer Group Name';
+$_['entry_name']        = 'Nome do Grupo de Cliente';
 $_['entry_description'] = 'Description';
 $_['entry_approval']    = 'Approve New Customers';
 $_['entry_sort_order']  = 'Sort Order';

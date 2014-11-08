@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']     = 'Affiliate Commission Report';
+$_['heading_title']     = 'Relatório da Comissão de afiliados';
 
 // Text
-$_['text_list']         = 'Affiliate Commission List';
+$_['text_list']         = 'Lista Comissão de afiliados';
 
 // Column
-$_['column_affiliate']  = 'Affiliate Name';
+$_['column_affiliate']  = 'Nome de afiliados';
 $_['column_email']      = 'E-Mail';
-$_['column_status']     = 'Status';
-$_['column_commission'] = 'Commission';
-$_['column_orders']     = 'No. Orders';
-$_['column_total']      = 'Total';
-$_['column_action']     = 'Action';
+$_['column_status']     = 'estado';
+$_['column_commission'] = 'comissão';
+$_['column_orders']     = 'No. Encomendas';
+$_['column_total']      = 'total';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'data de Início';
+$_['entry_date_end']    = 'data de Término';

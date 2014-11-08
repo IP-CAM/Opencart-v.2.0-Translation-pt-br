@@ -3,10 +3,10 @@
 $_['heading_title']         = 'Custom Fields';
 
 // Text
-$_['text_success']          = 'Success: You have modified custom fields!';
-$_['text_list']             = 'Custom Field List';
-$_['text_add']              = 'Add Custom Field';
-$_['text_edit']             = 'Edit Custom Field';
+$_['text_success']          = 'Sucesso : Você modificou campos personalizados !';
+$_['text_list']             = 'Lista campo personalizado';
+$_['text_add']              = 'Adicionar campo personalizado';
+$_['text_edit']             = 'Editar campo personalizado';
 $_['text_choose']           = 'Choose';
 $_['text_select']           = 'Select';
 $_['text_radio']            = 'Radio';
@@ -18,32 +18,32 @@ $_['text_file']             = 'File';
 $_['text_date']             = 'Date';
 $_['text_datetime']         = 'Date &amp; Time';
 $_['text_time']             = 'Time';
-$_['text_account']          = 'Account';
-$_['text_address']          = 'Address';
+$_['text_account']          = 'conta';
+$_['text_address']          = 'endereço';
 
 // Column
-$_['column_name']           = 'Custom Field Name';
-$_['column_location']       = 'Location';
-$_['column_type']           = 'Type';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_name']           = 'Nome do campo personalizado';
+$_['column_location']       = 'localização';
+$_['column_type']           = 'tipo';
+$_['column_sort_order']     = 'Ordem de classificação';
+$_['column_action']         = 'ação';
 
 // Entry
-$_['entry_name']            = 'Custom Field Name';
-$_['entry_location']        = 'Location';
-$_['entry_type']            = 'Type';
-$_['entry_value']           = 'Value';
-$_['entry_custom_value']    = 'Custom Field Value Name';
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_required']        = 'Required';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_name']            = 'Nome do campo personalizado';
+$_['entry_location']        = 'localização';
+$_['entry_type']            = 'tipo';
+$_['entry_value']           = 'valor';
+$_['entry_custom_value']    = 'Nome do costume Campo Valor';
+$_['entry_customer_group']  = 'Grupo de clientes';
+$_['entry_required']        = 'necessário';
+$_['entry_status']          = 'estado';
+$_['entry_sort_order']      = 'Ordem de classificação';
 
 // Help
-$_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';
+$_['help_sort_order']       = 'Use menos para contar para trás a partir do último campo no conjunto.';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify custom fields!';
-$_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
-$_['error_type']            = 'Warning: Custom Field Values required!';
-$_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';
+$_['error_permission']      = 'Atenção: Você não tem permissão para modificar os campos personalizados !';
+$_['error_name']            = 'Feito sob encomenda do campo deve estar entre 1 e 128 caracteres !';
+$_['error_type']            = 'Aviso: Os valores do campo personalizado necessário!';
+$_['error_custom_value']    = 'Nome feito sob encomenda O valor deve ser entre 1 e 128 caracteres !';

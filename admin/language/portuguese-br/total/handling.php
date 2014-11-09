@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Taxa de Manuseio';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+$_['text_total']       = 'total de pedidos';
+$_['text_success']     = 'Sucesso : Você modificou manuseio taxa total !';
+$_['text_edit']        = 'Edite taxa de manuseio total';
 
 // Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_total']      = 'total do pedido';
+$_['entry_fee']        = 'taxa';
+$_['entry_tax_class']  = 'Classe de Impostos';
+$_['entry_status']     = 'estado';
+$_['entry_sort_order'] = 'Ordem de classificação';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+$_['help_total']       = 'O check-out total de ordem deve chegar antes desta ordem total se torna ativo.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar manipulação taxa total !';

@@ -3,19 +3,19 @@
 $_['heading_title']     = 'Uploads';
 
 // Text
-$_['text_success']      = 'Success: You have modified uploads!';
-$_['text_list']         = 'Upload List';
+$_['text_success']      = 'Sucesso : Você tem uploads modificados !';
+$_['text_list']         = 'Carregar lista';
 
 // Column
-$_['column_name']       = 'Upload Name';
-$_['column_filename']   = 'Filename';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Carregar Nome';
+$_['column_filename']   = 'nome do arquivo';
+$_['column_date_added'] = 'data adicionada';
+$_['column_action']     = 'ação';
 
 // Entry
-$_['entry_name']        = 'Upload Name';
-$_['entry_filename']    = 'Filename';
-$_['entry_date_added'] 	= 'Date Added';
+$_['entry_name']        = 'Carregar Nome';
+$_['entry_filename']    = 'nome do arquivo';
+$_['entry_date_added'] 	= 'data adicionada';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify uploads!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar uploads !';

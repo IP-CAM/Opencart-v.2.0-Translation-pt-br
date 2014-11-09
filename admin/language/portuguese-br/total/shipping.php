@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shipping';
+$_['heading_title']    = 'remessa';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+$_['text_total']       = 'total de pedidos';
+$_['text_success']     = 'Sucesso : Você modificou transporte total !';
+$_['text_edit']        = 'Editar envio total';
 
 // Entry
 $_['entry_estimator']  = 'Shipping Estimator';

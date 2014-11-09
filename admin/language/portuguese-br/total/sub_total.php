@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sub-Total';
+$_['heading_title']    = 'Sub -Total';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified sub-total total!';
-$_['text_edit']        = 'Edit Sub-Total Total';
+$_['text_total']       = 'total de pedidos';
+$_['text_success']     = 'Subtotal Você modificou no total: Sucesso!';
+$_['text_edit']        = 'Editar Sub- Total Total';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'estado';
 $_['entry_sort_order'] = 'Sort Order';
 
 // Error

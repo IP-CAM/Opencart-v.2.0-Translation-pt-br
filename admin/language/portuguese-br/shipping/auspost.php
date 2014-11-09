@@ -3,25 +3,25 @@
 $_['heading_title']      = 'Australia Post';
 
 // Text
-$_['text_shipping']      = 'Shipping';
-$_['text_success']       = 'Success: You have modified Australia Post shipping!';
-$_['text_edit']          = 'Edit Australia Post Shipping';
+$_['text_shipping']      = 'remessa';
+$_['text_success']       = 'Sucesso : Você modificou transporte Australia Post!';
+$_['text_edit']          = 'Editar Australia Post envio';
 
 // Entry
-$_['entry_postcode']     = 'Post Code';
-$_['entry_express']      = 'Express Postage';
-$_['entry_standard']     = 'Standard Postage';
-$_['entry_display_time'] = 'Display Delivery Time';
-$_['entry_weight_class'] = 'Weight Class';
-$_['entry_tax_class']    = 'Tax Class';
-$_['entry_geo_zone']     = 'Geo Zone';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_postcode']     = 'Código Postal';
+$_['entry_express']      = 'Selos Expresso';
+$_['entry_standard']     = 'Selo padrão';
+$_['entry_display_time'] = 'Mostrar tempo de entrega';
+$_['entry_weight_class'] = 'Classe de peso';
+$_['entry_tax_class']    = 'Classe de Impostos';
+$_['entry_geo_zone']     = 'Zona Geo';
+$_['entry_status']       = 'estado';
+$_['entry_sort_order']   = 'Ordem de classificação';
 
 // Help
-$_['help_display_time']  = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
-$_['help_weight_class']  = 'Set to grams.';
+$_['help_display_time']  = 'Você quer mostrar o tempo do transporte ? (por exemplo Navios dentro de 3 a 5 dias )';
+$_['help_weight_class']  = 'Defina para gramas.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Australia Post shipping!';
-$_['error_postcode']     = 'Post Code must be 4 digits!';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar o transporte Australia Post!';
+$_['error_postcode']     = 'Código Postal deve ter 4 dígitos !';

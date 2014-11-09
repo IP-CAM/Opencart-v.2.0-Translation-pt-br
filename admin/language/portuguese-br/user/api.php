@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']        = 'API \'s';
+$_['heading_title']        = 'API\'s';
 
 // Text
-$_['text_success']         = 'Sucesso : Você modificou API \'s !';
-$_['text_list']            = 'Lista API';
-$_['text_add']             = 'Adicionar API';
-$_['text_edit']            = 'Editar API';
+$_['text_success']         = 'API modificada com sucesso!';
+$_['text_list']            = 'Listando API\'s';
+$_['text_add']             = 'Nova API';
+$_['text_edit']            = 'Editando API';
 
 // Column
-$_['column_username']      = 'Nome de Usuário';
-$_['column_status']        = 'estado';
-$_['column_date_added']    = 'data adicionada';
-$_['column_date_modified'] = 'data de modificação';
-$_['column_action']        = 'ação';
+$_['column_username']      = 'Usuário';
+$_['column_status']        = 'Situação';
+$_['column_date_added']    = 'Cadastro';
+$_['column_date_modified'] = 'Modificação';
+$_['column_action']        = 'Ação';
 
 // Entry
-$_['entry_username']       = 'Nome de Usuário';
-$_['entry_password']       = 'senha';
-$_['entry_status']         = 'estado';
+$_['entry_username']       = 'Usuário';
+$_['entry_password']       = 'Senha';
+$_['entry_status']         = 'Situação';
 
 // Error
-$_['error_permission']     = 'Atenção: Você não tem permissão para modificar API \'s !';
-$_['error_username']       = 'Usuário deve ter entre 3 e 20 caracteres !';
-$_['error_password']       = 'API senha deve ter entre 3 e 256 caracteres !';
+$_['error_permission']     = 'Atenção: Você não tem permissão para modicar API\'s!';
+$_['error_username']       = 'O usuário deve ter entre 3 e 20 caracteres!';
+$_['error_password']       = 'A senha deve ter entre 3 e 256 caracteres!';

@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Temas vouchers';
+$_['heading_title']     = 'Temas dos vales presentes';
 
 // Text
-$_['text_success']      = 'Sucesso : Você modificou temas vouchers !';
-$_['text_list']         = 'Lista Tema Voucher';
-$_['text_add']          = 'Adicionar Comprovante Tema';
-$_['text_edit']         = 'Editar Comprovante Tema';
+$_['text_success']      = 'Tema modificado com sucesso!';
+$_['text_list']         = 'Listando temas dos vales presentes';
+$_['text_add']          = 'Novo tema';
+$_['text_edit']         = 'Editando tema';
 
 // Column
-$_['column_name']       = 'Comprovante Theme Name';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Nome do tema';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Comprovante Theme Name';
-$_['entry_description'] = 'Comprovante Tema Descrição';
-$_['entry_image']       = 'imagem';
+$_['entry_name']        = 'Nome do tema';
+$_['entry_description'] = 'Descrição';
+$_['entry_image']       = 'Imagem';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar temas vouchers !';
-$_['error_name']        = 'Comprovante Theme Name devem ter entre 3 e 32 caracteres !';
-$_['error_image']       = 'Imagem necessário!';
-$_['error_voucher']     = 'Aviso: Este tema comprovante não pode ser excluída como é atualmente atribuída a vales % s !';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar temas dos vales presentes!';
+$_['error_name']        = 'O nome do tema deve ter entre 3 e 32 caracteres!';
+$_['error_image']       = 'A imagem é obrigatória!';
+$_['error_voucher']     = 'Atenção: Este tema não pode ser excluído, pois está vinculado a %s vales presentes!';

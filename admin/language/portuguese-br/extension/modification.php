@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']     = 'modificações';
+$_['heading_title']     = 'Modificações';
 
 // Text
-$_['text_success']      = 'Sucesso : Você tem modificações modificados !';
-$_['text_refresh']      = 'Sempre que você ativar / desativar ou apagar uma modificação você precisa clicar no botão de atualização para reconstruir a cache modificação !';
-$_['text_list']         = 'Lista modificação';
+$_['text_success']      = 'Modificação instalada com sucesso!';
+$_['text_refresh']      = 'Sempre que você ativar, desativar ou apagar uma modificação, é necessário clicar no botão Atualizar para reconstruir o cache de modificações!';
+$_['text_list']         = 'Listando modificações';
 
 // Column
-$_['column_name']       = 'Nome modificação';
-$_['column_author']     = 'autor';
-$_['column_version']    = 'versão';
-$_['column_status']     = 'estado';
-$_['column_date_added'] = 'data adicionada';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Modificação';
+$_['column_author']     = 'Autor';
+$_['column_version']    = 'Versão';
+$_['column_status']     = 'Situação';
+$_['column_date_added'] = 'Cadastro';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as modificações !';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as modificações!';

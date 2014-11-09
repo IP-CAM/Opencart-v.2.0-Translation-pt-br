@@ -1,21 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'carrossel';
+$_['heading_title']    = 'Carousel';
 
 // Text
-$_['text_module']      = 'módulos';
-$_['text_success']     = 'Sucesso : Você modificou módulo carrossel !';
-$_['text_edit']        = 'Editar Módulo Carrossel';
+$_['text_module']      = 'Modules';
+$_['text_success']     = 'Success: You have modified carousel module!';
+$_['text_edit']        = 'Edit Carousel Module';
 
 // Entry
-$_['entry_banner']     = 'bandeira';
-$_['entry_limit']      = 'limite';
+$_['entry_banner']     = 'Banner';
+$_['entry_limit']      = 'Limit';
 $_['entry_scroll']     = 'Scroll';
-$_['entry_image']      = 'Imagem ( W x H) e Redimensionar Tipo';
-$_['entry_width']      = 'largura';
-$_['entry_height']     = 'altura';
-$_['entry_status']     = 'estado';
+$_['entry_image']      = 'Image (W x H) and Resize Type';
+$_['entry_width']      = 'Width';
+$_['entry_height']     = 'Height';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar módulo carrossel !';
-$_['error_image']      = 'Largura & amp imagem ; dimensões de altura necessária!';
+$_['error_permission'] = 'Warning: You do not have permission to modify carousel module!';
+$_['error_module']     = 'Warning: Module required!';
+$_['error_image']      = 'Image width &amp; height dimensions required!';

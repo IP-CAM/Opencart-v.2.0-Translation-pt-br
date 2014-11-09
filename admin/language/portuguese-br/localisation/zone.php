@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']          = 'zonas';
+$_['heading_title']          = 'Estados';
 
 // Text
-$_['text_success']           = 'Sucesso : Você tem zonas modificadas !';
-$_['text_list']              = 'Lista de Zona';
-$_['text_add']               = 'Adicionar Zona';
-$_['text_edit']              = 'Editar Zona';
+$_['text_success']           = 'Estado modificado com sucesso!';
+$_['text_list']              = 'Listando estados';
+$_['text_add']               = 'Novo estado';
+$_['text_edit']              = 'Editando estado';
 
 // Column
-$_['column_name']            = 'Nome da Zona';
-$_['column_code']            = 'Código zona';
-$_['column_country']         = 'país';
-$_['column_action']          = 'ação';
+$_['column_name']            = 'Estado';
+$_['column_code']            = 'Código';
+$_['column_country']         = 'País';
+$_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_status']           = 'status da Zona';
-$_['entry_name']             = 'Nome da Zona';
-$_['entry_code']             = 'Código zona';
-$_['entry_country']          = 'país';
+$_['entry_status']           = 'Situação';
+$_['entry_name']             = 'Estado';
+$_['entry_code']             = 'Código';
+$_['entry_country']          = 'País';
 
 // Error
-$_['error_permission']       = 'Atenção: Você não tem permissão para modificar as zonas !';
-$_['error_name']             = 'Nome da Zona devem ter entre 3 e 128 caracteres !';
-$_['error_default']          = 'Aviso: Esta zona não pode ser excluída como é atualmente designado como zona de armazenamento padrão !';
-$_['error_store']            = 'Aviso: Esta zona não pode ser excluída como é atualmente atribuída a lojas %s !';
-$_['error_address']          = 'Aviso: Esta zona não pode ser excluída como é atualmente atribuída a entradas da agenda %s !';
-$_['error_affiliate']        = 'Aviso: Esta zona não pode ser excluída como é atualmente atribuída aos afiliados %s !';
-$_['error_zone_to_geo_zone'] = 'Aviso: Esta zona não pode ser excluída como é atualmente atribuída a zonas %s para geo zonas !';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar os estados!';
+$_['error_name']             = 'A estado deve ter entre 3 e 128 caracteres!';
+$_['error_default']          = 'Atenção: Este estado não pode ser excluído, pois ele está definido como o estado padrão!';
+$_['error_store']            = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s lojas!';
+$_['error_address']          = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s endereços!';
+$_['error_affiliate']        = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s afiliados!';
+$_['error_zone_to_geo_zone'] = 'Atenção: Este estado não pode ser excluído, pois está vinculado a %s regiões!';

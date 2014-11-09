@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = 'pagamentos';
+$_['heading_title']     = 'Pagamentos';
 
 // Text
-$_['text_success']      = 'Sucesso : Você tem pagamentos modificados !';
-$_['text_list']         = 'Lista de pagamentos';
+$_['text_success']      = 'Pagamento modificado com sucesso!';
+$_['text_list']         = 'Listando pagamentos';
 
 // Column
-$_['column_name']       = 'método de pagamento';
-$_['column_status']     = 'estado';
-$_['column_sort_order'] = 'Ordem de classificação';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Pagamento';
+$_['column_status']     = 'Situação';
+$_['column_sort_order'] = 'Ordem na lista';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os pagamentos !';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os pagamentos!';

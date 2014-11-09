@@ -3,19 +3,19 @@
 $_['heading_title']     = 'Uploads';
 
 // Text
-$_['text_success']      = 'Sucesso : Você tem uploads modificados !';
-$_['text_list']         = 'Carregar lista';
+$_['text_success']      = 'Upload modificado com sucesso!';
+$_['text_list']         = 'Listando uploads';
 
 // Column
-$_['column_name']       = 'Carregar Nome';
-$_['column_filename']   = 'nome do arquivo';
-$_['column_date_added'] = 'data adicionada';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Upload';
+$_['column_filename']   = 'Arquivo';
+$_['column_date_added'] = 'Cadastro';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Carregar Nome';
-$_['entry_filename']    = 'nome do arquivo';
-$_['entry_date_added'] 	= 'data adicionada';
+$_['entry_name']        = 'Upload';
+$_['entry_filename']    = 'Arquivo';
+$_['entry_date_added'] 	= 'Cadastro';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar uploads !';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os uploads!';

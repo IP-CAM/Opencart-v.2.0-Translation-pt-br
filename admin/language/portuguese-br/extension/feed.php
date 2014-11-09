@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'Alimentadores';
 
 // Text
-$_['text_success']     = 'Sucesso : Você tem alimentos modificados !';
-$_['text_list']        = 'Lista de Feeds';
+$_['text_success']     = 'Alimentador modificado com sucesso!';
+$_['text_list']        = 'Listando alimentadores';
 
 // Column
-$_['column_name']      = 'Produtos de alimentação Nome';
-$_['column_status']    = 'estado';
-$_['column_action']    = 'ação';
+$_['column_name']      = 'Alimentador';
+$_['column_status']    = 'Situação';
+$_['column_action']    = 'Ação';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os feeds !';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os alimentadores!';

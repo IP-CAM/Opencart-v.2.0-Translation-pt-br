@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']    = 'comprimento Classes';
+$_['heading_title']    = 'Unidades de medida';
 
 // Text
-$_['text_success']     = 'Sucesso : Você modificou classes de comprimento !';
-$_['text_list']        = 'Comprimento Lista de Classes';
-$_['text_add']         = 'Adicionar Comprimento Classe';
-$_['text_edit']        = 'Editar Comprimento Classe';
+$_['text_success']     = 'Unidade de medida modificada com sucesso!';
+$_['text_list']        = 'Listando unidades de medidas';
+$_['text_add']         = 'Nova unidade de medida';
+$_['text_edit']        = 'Editando unidade de medida';
 
 // Column
-$_['column_title']     = 'comprimento Título';
-$_['column_unit']      = 'Corpo Unidade';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_title']     = 'Unidade de medida';
+$_['column_unit']      = 'Unidade';
+$_['column_value']     = 'Valor';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_title']      = 'Length Title';
-$_['entry_unit']       = 'Length Unit';
-$_['entry_value']      = 'Value';
+$_['entry_title']      = 'Unidade de medida';
+$_['entry_unit']       = 'Unidade';
+$_['entry_value']      = 'Valor';
 
 // Help
-$_['help_value']       = 'Set to 1.00000 if this is your default length.';
+$_['help_value']       = 'Defina para 1.00000, se está é a sua unidade de medida padrão.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify length classes!';
-$_['error_title']      = 'Length Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Length Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This length class cannot be deleted as it is currently assigned as the default store length class!';
-$_['error_product']    = 'Warning: This length class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as unidades de medidas!';
+$_['error_title']      = 'A unidade de medida deve ter entre 3 e 32 caracteres!';
+$_['error_unit']       = 'A unidade deve ser entre 1 e 4 caracteres!';
+$_['error_default']    = 'Atenção: Esta unidade de medida não pode ser excluída, pois ela está definida como a unidade de medida padrão!';
+$_['error_product']    = 'Atenção: Esta unidade de medida não pode ser excluída, pois está vinculada a %s produtos!';

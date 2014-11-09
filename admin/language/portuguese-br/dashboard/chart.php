@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title'] = 'Análise de Vendas';
+$_['heading_title'] = 'Gráfico de vendas';
 
 // Text
-$_['text_order']    = 'encomendas';
-$_['text_customer'] = 'clientes';
-$_['text_day']      = 'hoje';
-$_['text_week']     = 'semana';
-$_['text_month']    = 'mês';
-$_['text_year']     = 'ano';
+$_['text_order']    = 'Pedidos';
+$_['text_customer'] = 'Clientes';
+$_['text_day']      = 'Hoje';
+$_['text_week']     = 'Semanal';
+$_['text_month']    = 'Mensal';
+$_['text_year']     = 'Anual';

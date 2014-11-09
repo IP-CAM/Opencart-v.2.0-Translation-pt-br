@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']     = 'idiomas';
+$_['heading_title']     = 'Idiomas';
 
 // Text
-$_['text_success']      = 'Sucesso : Você tem línguas modificados !';
-$_['text_list']         = 'Lista idioma';
-$_['text_add']          = 'Adicionar Idioma';
-$_['text_edit']         = 'Editar Idioma';
+$_['text_success']      = 'Idioma modificado com sucesso!';
+$_['text_list']         = 'Listando moedas';
+$_['text_add']          = 'Nova moeda';
+$_['text_edit']         = 'Editando moeda';
 
 // Column
-$_['column_name']       = 'Nome do Idioma';
-$_['column_code']       = 'código';
-$_['column_sort_order'] = 'Ordem de classificação';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Idioma';
+$_['column_code']       = 'Código';
+$_['column_sort_order'] = 'Ordem na lista';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Nome do Idioma';
-$_['entry_code']        = 'código';
-$_['entry_locale']      = 'local';
-$_['entry_image']       = 'imagem';
-$_['entry_directory']   = 'diretório';
-$_['entry_filename']    = 'nome do arquivo';
-$_['entry_status']      = 'estado';
-$_['entry_sort_order']  = 'Ordem de classificação';
+$_['entry_name']        = 'Idioma';
+$_['entry_code']        = 'Código';
+$_['entry_locale']      = 'Localidade';
+$_['entry_image']       = 'Bandeira';
+$_['entry_directory']   = 'Diretório';
+$_['entry_filename']    = 'Arquivo';
+$_['entry_status']      = 'Situação';
+$_['entry_sort_order']  = 'Ordem na lista';
 
 // Help
-$_['help_code']         = 'Exemplo: en . Não altere , se este é o seu idioma padrão.';
-$_['help_locale']       = 'Exemplo: en_US.UTF -8, pt_BR , en- gb , en_GB , Inglês';
-$_['help_image']        = 'Exemplo: gb.png';
-$_['help_directory']    = 'Nome do diretório de idioma ( maiúsculas e minúsculas)';
-$_['help_filename']     = 'Filename Língua principal sem extensão';
-$_['help_status']       = 'Esconder / Mostrar -lo em suspenso linguagem';
+$_['help_code']         = 'Exemplo: pt-br. Não altere se este é o seu idioma padrão.';
+$_['help_locale']       = 'Exemplo: pt_BR.UTF-8, pt_BR, UTF-8';
+$_['help_image']        = 'Exemplo: br.png';
+$_['help_directory']    = 'Exemplo: portuguese-br. Nome do diretório do idioma (sensível a maiúsculas e minúsculas).';
+$_['help_filename']     = 'Exemplo: portuguese-br. Nome do arquivo principal do idioma sem a extensão.';
+$_['help_status']       = 'Habilitar/Desabilitar a exibição do idioma na loja.';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as línguas!';
-$_['error_name']        = 'Nome do Idioma devem ter entre 3 e 32 caracteres !';
-$_['error_code']        = 'Código do idioma deve ser pelo menos 2 caracteres !';
-$_['error_locale']      = 'Locale necessário!';
-$_['error_image']       = 'Imagem Matrícula deve estar entre 3 e 64 caracteres !';
-$_['error_directory']   = 'Diretório necessário!';
-$_['error_filename']    = 'Matrícula deve estar entre 3 e 64 caracteres !';
-$_['error_default']     = 'Aviso: Esta linguagem não pode ser excluída como é atualmente designado como o idioma padrão de armazenamento !';
-$_['error_admin']       = 'Aviso: Esta linguagem não pode ser excluída , uma vez que é atribuído atualmente como a língua de administração !';
-$_['error_store']       = 'Aviso: Esta linguagem não pode ser excluída como é atualmente atribuída a lojas %s !';
-$_['error_order']       = 'Aviso: Esta linguagem não pode ser excluída como é atualmente atribuída a ordens %s !';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os idiomas!';
+$_['error_name']        = 'O idioma deve ter entre 3 e 32 caracteres!';
+$_['error_code']        = 'O código deve ter pelo menos 2 caracteres!';
+$_['error_locale']      = 'A localidade é obrigatória!';
+$_['error_image']       = 'A bandeira deve ter entre 3 e 64 caracteres!';
+$_['error_directory']   = 'O diretório é obrigatório!';
+$_['error_filename']    = 'O arquivo deve ter entre 3 e 64 caracteres!';
+$_['error_default']     = 'Atenção: Este idioma não pode ser excluído, pois ele está definido como o idioma padrão da loja!';
+$_['error_admin']       = 'Atenção: Este idioma não pode ser excluído, pois ele está definido como o idioma padrão da administração!';
+$_['error_store']       = 'Atenção: Este idioma não pode ser excluído, pois está vinculado a %s lojas!';
+$_['error_order']       = 'Atenção: Este idioma não pode ser excluído, pois está vinculado a %s pedidos!';

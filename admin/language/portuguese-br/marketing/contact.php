@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']        = 'correio';
+$_['heading_title']        = 'Informativo';
 
 // Text
-$_['text_success']         = 'Sua mensagem foi enviada com sucesso !';
-$_['text_sent']            = 'Sua mensagem foi enviada com sucesso para % s de destinatários % s !';
-$_['text_list']            = 'Lista de layout';
-$_['text_default']         = 'omissão';
-$_['text_newsletter']      = 'Todos os assinantes da newsletter';
-$_['text_customer_all']    = 'Todos os Clientes';
+$_['text_success']         = 'Sua mensagem foi enviada com sucesso!';
+$_['text_sent']            = 'Sua mensagem foi enviada com sucesso para %s de %s destinatários!';
+$_['text_list']            = 'Listando layouts';
+$_['text_default']         = 'Padrão';
+$_['text_newsletter']      = 'Todos os assinantes';
+$_['text_customer_all']    = 'Todos os clientes';
 $_['text_customer_group']  = 'Grupo de clientes';
-$_['text_customer']        = 'clientes';
-$_['text_affiliate_all']   = 'Todos os Afiliados';
+$_['text_customer']        = 'Clientes';
+$_['text_affiliate_all']   = 'Todos os afiliados';
 $_['text_affiliate']       = 'Afiliados';
-$_['text_product']         = 'produtos';
+$_['text_product']         = 'Clientes compradores';
 
 // Entry
-$_['entry_store']          = 'a partir de';
-$_['entry_to']             = 'a';
+$_['entry_store']          = 'De';
+$_['entry_to']             = 'Para';
 $_['entry_customer_group'] = 'Grupo de clientes';
-$_['entry_customer']       = 'cliente';
-$_['entry_affiliate']      = 'afiliar';
-$_['entry_product']        = 'produtos';
-$_['entry_subject']        = 'assunto';
-$_['entry_message']        = 'mensagem';
+$_['entry_customer']       = 'Cliente';
+$_['entry_affiliate']      = 'Afiliado';
+$_['entry_product']        = 'Produtos';
+$_['entry_subject']        = 'Assunto';
+$_['entry_message']        = 'Mensagem';
 
 // Help
-$_['help_customer']       = 'autocomplete';
-$_['help_affiliate']      = 'autocomplete';
-$_['help_product']        = 'Envie somente para clientes que encomendaram produtos na lista. ( Autocomplete )';
+$_['help_customer']        = 'autocompletar';
+$_['help_affiliate']       = 'autocompletar';
+$_['help_product']         = 'Enviar somente para clientes que compraram os produtos listados. (Autocompletar)';
 
 // Error
-$_['error_permission']     = 'Atenção: Você não tem permissão para enviar e-mails !';
-$_['error_subject']        = 'E-Mail Assunto necessário!';
-$_['error_message']        = 'Mensagem E-Mail necessário!';
+$_['error_permission']     = 'Atenção: Você não tem permissão para enviar informativos!';
+$_['error_subject']        = 'O assunto do e-mail é obrigatório!';
+$_['error_message']        = 'A mensagem do e-mail é obrigatória!';

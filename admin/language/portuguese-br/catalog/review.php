@@ -1,35 +1,35 @@
 <?php
 // Heading
-$_['heading_title']     = 'comentários';
+$_['heading_title']     = 'Comentários';
 
 // Text
-$_['text_success']      = 'Sucesso : Você tem comentários modificados !';
-$_['text_list']         = 'Lista comentário';
-$_['text_add']          = 'Adicionar comentário';
-$_['text_edit']         = 'Editar comentário';
+$_['text_success']      = 'Comentário modificado com sucesso!';
+$_['text_list']         = 'Listando comentários';
+$_['text_add']          = 'Novo comentário';
+$_['text_edit']         = 'Editando comentário';
 
 // Column
-$_['column_product']    = 'produto';
-$_['column_author']     = 'autor';
-$_['column_rating']     = 'classificação';
-$_['column_status']     = 'estado';
-$_['column_date_added'] = 'data adicionada';
-$_['column_action']     = 'ação';
+$_['column_product']    = 'Produto';
+$_['column_author']     = 'Autor';
+$_['column_rating']     = 'Avaliação';
+$_['column_status']     = 'Situação';
+$_['column_date_added'] = 'Cadastro';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_product']     = 'produto';
-$_['entry_author']      = 'autor';
-$_['entry_rating']      = 'classificação';
-$_['entry_status']      = 'estado';
-$_['entry_text']        = 'texto';
-$_['entry_date_added']  = 'data adicionada';
+$_['entry_product']     = 'Produto';
+$_['entry_author']      = 'Autor';
+$_['entry_rating']      = 'Avaliação';
+$_['entry_status']      = 'Situação';
+$_['entry_text']        = 'Comentário';
+$_['entry_date_added']  = 'Cadastro';
 
 // Help
-$_['help_product']      = '( Autocomplete )';
+$_['help_product']      = '(autocompletar)';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar comentários !';
-$_['error_product']     = 'Produto necessário!';
-$_['error_author']      = 'Autor devem ter entre 3 e 64 caracteres !';
-$_['error_text']        = 'Revisão do texto deve ser de pelo menos um personagem!';
-$_['error_rating']      = 'Avaliação do necessário!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os comentários.!';
+$_['error_product']     = 'O produto é obrigatório!';
+$_['error_author']      = 'O autor deve ter entre 3 e 64 caracteres!';
+$_['error_text']        = 'O comentário dever ter pelo menos 1 caractere!';
+$_['error_rating']      = 'A avaliação é obrigatória!';

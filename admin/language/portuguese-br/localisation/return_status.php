@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'retorno status';
+$_['heading_title']    = 'Situações de devoluções';
 
 // Text
-$_['text_success']     = 'Sucesso : Você modificou os status de retorno !';
-$_['text_list']        = 'Lista de Devolução Status';
-$_['text_add']         = 'Adicionar Status de Retorno';
-$_['text_edit']        = 'Editar Status de Retorno';
+$_['text_success']     = 'Situação de devoluções modificado com sucesso!';
+$_['text_list']        = 'Listando situações de devoluções';
+$_['text_add']         = 'Nova situação de devoluções';
+$_['text_edit']        = 'Editando situação de devoluções';
 
 // Column
-$_['column_name']      = 'Nome Status de Retorno';
-$_['column_action']    = 'ação';
+$_['column_name']      = 'Situação de devoluções';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_name']       = 'Nome Status de Retorno';
+$_['entry_name']       = 'Situação de devoluções';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar estátuas de retorno !';
-$_['error_name']       = 'Devolução Status Nome devem ter entre 3 e 32 caracteres !';
-$_['error_default']    = 'Aviso: Este status de retorno não pode ser excluída como é atualmente designado como o status de retorno padrão !';
-$_['error_return']     = 'Aviso: Este status de retorno não pode ser excluída como é atualmente atribuída aos retornos %s !';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar as situações de devoluções!';
+$_['error_name']       = 'A situação de devoluções deve ter entre 3 e 32 caracteres!';
+$_['error_default']    = 'Atenção: Esta situação de pedidos não pode ser excluída, pois ela está definida como a situação de devolução padrão!';
+$_['error_return']     = 'Atenção: Esta situação de devoluções não pode ser excluída, pois está vinculada a %s devoluções!';

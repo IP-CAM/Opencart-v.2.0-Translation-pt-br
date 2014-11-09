@@ -3,14 +3,14 @@
 $_['heading_title']  = 'Redefinir sua senha';
 
 // Text
-$_['text_reset']     = 'Redefinir sua senha!';
-$_['text_password']  = 'Digite a nova senha que você deseja usar .';
-$_['text_success']   = 'Sucesso : Sua senha foi atualizada com sucesso.';
+$_['text_reset']     = 'Redefinir senha!';
+$_['text_password']  = 'Digite a nova senha que deseja utilizar.';
+$_['text_success']   = 'Sua senha foi redefinida com sucesso.';
 
 // Entry
-$_['entry_password'] = 'senha';
-$_['entry_confirm']  = 'confirmar';
+$_['entry_password'] = 'Nova senha:';
+$_['entry_confirm']  = 'Repetir senha:';
 
 // Error
-$_['error_password'] = 'A senha deve ter entre 5 e 20 caracteres !';
-$_['error_confirm']  = 'Senha e confirmação de senha não correspondem !';
+$_['error_password'] = 'A nova senha deve ter entre 5 e 20 caracteres!';
+$_['error_confirm']  = 'A senha repetida não foi confirmada!';

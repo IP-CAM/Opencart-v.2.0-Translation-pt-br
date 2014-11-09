@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Retorno Razões';
+$_['heading_title']    = 'Motivos de devoluções';
 
 // Text
-$_['text_success']     = 'Sucesso : Você modificou razões de retorno !';
-$_['text_list']        = 'Lista de layout';
-$_['text_add']         = 'Adicionar Retorno Razão';
-$_['text_edit']        = 'Editar Retorno Razão';
+$_['text_success']     = 'Motivo de devoluções modificado com sucesso!';
+$_['text_list']        = 'Listando motivos de devoluções';
+$_['text_add']         = 'Novo motivo de devoluções';
+$_['text_edit']        = 'Editando motivo de devoluções';
 
 // Column
-$_['column_name']      = 'Retorno Razão Nome';
-$_['column_action']    = 'ação';
+$_['column_name']      = 'Motivo de devoluções';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_name']       = 'Retorno Razão Nome';
+$_['entry_name']       = 'Motivo de devoluções';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar razões de retorno !';
-$_['error_name']       = 'Retorno Razão nome deve ter entre 3 e 128 caracteres !';
-$_['error_return']     = 'Aviso: Este motivo de retorno não pode ser excluída como é atualmente atribuída a %s produtos devolvidos !';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar os motivos de devoluções!';
+$_['error_name']       = 'O motivo de devoluções deve ter entre 3 e 128 caracteres!';
+$_['error_return']     = 'Atenção: Este motivo de devoluções não pode ser excluído, pois está vinculado a %s produtos devolvidos!';

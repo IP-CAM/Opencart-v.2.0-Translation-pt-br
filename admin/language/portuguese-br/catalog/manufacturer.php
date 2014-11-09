@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']      = 'fabricantes';
+$_['heading_title']      = 'Fabricantes';
 
 // Text
-$_['text_success']       = 'Sucesso : Você tem fabricantes modificados !';
-$_['text_list']          = 'Lista fabricante';
-$_['text_add']           = 'Adicionar Fabricante';
-$_['text_edit']          = 'Editar Fabricante';
-$_['text_default']       = 'omissão';
-$_['text_percent']       = 'percentagem';
-$_['text_amount']        = 'Valor Fixo';
+$_['text_success']       = 'Fabricante modificado com sucesso!';
+$_['text_list']          = 'Listando fabricantes';
+$_['text_add']           = 'Novo fabricante';
+$_['text_edit']          = 'Editando fabricante';
+$_['text_default']       = 'Padrão';
+$_['text_percent']       = 'Percentual';
+$_['text_amount']        = 'Valor fixo';
 
 // Column
-$_['column_name']        = 'fabricante Nome';
-$_['column_sort_order']  = 'Ordem de classificação';
-$_['column_action']      = 'ação';
+$_['column_name']        = 'Fabricante';
+$_['column_sort_order']  = 'Ordem na lista';
+$_['column_action']      = 'Ação';
 
 // Entry
-$_['entry_name']         = 'fabricante Nome';
-$_['entry_store']        = 'lojas';
-$_['entry_keyword']      = 'SEO Keyword';
-$_['entry_image']        = 'imagem';
-$_['entry_sort_order']   = 'Ordem de classificação';
-$_['entry_type']         = 'tipo';
+$_['entry_name']         = 'Fabricante';
+$_['entry_store']        = 'Lojas';
+$_['entry_keyword']      = 'Url amigável';
+$_['entry_image']        = 'Logo';
+$_['entry_sort_order']   = 'Ordem na lista';
+$_['entry_type']         = 'Tipo';
 
 // Help
-$_['help_keyword']       = 'Não utilize espaços , substituindo os espaços com - e certifique-se a palavra-chave é único a nível mundial .';
+$_['help_keyword']       = 'Não utilize espaços, substitua os espaços por - (hífen), e certifique-se que a palavra é exclusiva em toda a loja.';
 
 // Error
-$_['error_permission']   = 'Atenção: Você não tem permissão para modificar fabricantes !';
-$_['error_name']         = 'Nome Fabricante deve estar entre 2 e 64 caracteres !';
-$_['error_product']      = 'Aviso: Este fabricante não pode ser excluída como é atualmente atribuída a % s produtos !';
+$_['error_permission']   = 'Atenção: Você não tem permissão para modificar os fabricantes!';
+$_['error_name']         = 'O fabricante deve ter entre 2 e 64 caracteres!';
+$_['error_product']      = 'Atenção: Este fabricante não pode ser excluído, pois está vinculado a %s produtos!';

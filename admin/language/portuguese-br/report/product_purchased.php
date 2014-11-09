@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']     = 'Produtos comprados Relatório';
+$_['heading_title']     = 'Relatório de produtos vendidos';
 
 // Text
-$_['text_list']         = 'Produtos comprados Lista';
-$_['text_all_status']   = 'Todos os status';
+$_['text_list']         = 'Listando produtos vendidos';
+$_['text_all_status']   = 'Todas as situações';
 
 // Column
-$_['column_date_start'] = 'data de Início';
-$_['column_date_end']   = 'data de Término';
-$_['column_name']       = 'Nome do produto';
-$_['column_model']      = 'modelo';
-$_['column_quantity']   = 'quantidade';
-$_['column_total']      = 'total';
+$_['column_date_start'] = 'Data inicial';
+$_['column_date_end']   = 'Data final';
+$_['column_name']       = 'Produto';
+$_['column_model']      = 'Modelo';
+$_['column_quantity']   = 'Quantidade';
+$_['column_total']      = 'Total';
 
 // Entry
-$_['entry_date_start']  = 'data de Início';
-$_['entry_date_end']    = 'data de Término';
-$_['entry_status']      = 'status do pedido';
+$_['entry_date_start']  = 'Data inicial';
+$_['entry_date_end']    = 'Data final';
+$_['entry_status']      = 'Situação do pedido';

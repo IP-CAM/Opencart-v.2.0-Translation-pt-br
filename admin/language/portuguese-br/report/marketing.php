@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Relatório de Marketing';
+$_['heading_title']    = 'Relatório de marketing';
 
 // Text
-$_['text_list']         = 'Lista de Marketing';
-$_['text_all_status']   = 'Todos os status';
+$_['text_list']         = 'Listando marketing';
+$_['text_all_status']   = 'Todos as situações';
 
 // Column
-$_['column_campaign']  = 'Nome da campanha';
-$_['column_code']      = 'código';
-$_['column_clicks']    = 'cliques';
-$_['column_orders']    = 'No. Encomendas';
-$_['column_total']     = 'total';
+$_['column_campaign']  = 'Campanha';
+$_['column_code']      = 'Código';
+$_['column_clicks']    = 'Cliques';
+$_['column_orders']    = 'Pedidos';
+$_['column_total']     = 'Total';
 
 // Entry
-$_['entry_date_start'] = 'data de Início';
-$_['entry_date_end']   = 'data de Término';
-$_['entry_status']     = 'status do pedido';
+$_['entry_date_start'] = 'Data inicial';
+$_['entry_date_end']   = 'Data final';
+$_['entry_status']     = 'Situação do pedido';

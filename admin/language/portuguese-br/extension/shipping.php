@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = 'remessa';
+$_['heading_title']     = 'Fretes';
 
 // Text
-$_['text_success']      = 'Sucesso : Você modificou o transporte!';
-$_['text_list']         = 'Lista de envio';
+$_['text_success']      = 'Frete modificado com sucesso!';
+$_['text_list']         = 'Listando fretes';
 
 // Column
-$_['column_name']       = 'Método de Envio';
-$_['column_status']     = 'estado';
-$_['column_sort_order'] = 'Ordem de classificação';
-$_['column_action']     = 'ação';
+$_['column_name']       = 'Frete';
+$_['column_status']     = 'Situação';
+$_['column_sort_order'] = 'Ordem na lista';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Atenção: Você não tem permissão para modificar o transporte!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar os fretes!';

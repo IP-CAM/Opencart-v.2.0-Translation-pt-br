@@ -1,44 +1,44 @@
 <?php
 // Heading
-$_['heading_title']          = 'Categorias';
+$_['heading_title']          = 'Departamentos';
 
 // Text
-$_['text_success']           = 'Sucesso : Você tem categorias modificados !';
-$_['text_list']              = 'Lista de categorias';
-$_['text_add']               = 'Adicionar categoria';
-$_['text_edit']              = 'Editar categoria';
-$_['text_default']           = 'omissão';
+$_['text_success']           = 'Departamento modificado com sucesso!';
+$_['text_list']              = 'Listando departamentos';
+$_['text_add']               = 'Novo departamento';
+$_['text_edit']              = 'Editando departamento';
+$_['text_default']           = 'Padrão';
 
 // Column
-$_['column_name']            = 'Nome da Categoria';
-$_['column_sort_order']      = 'Ordem de classificação';
-$_['column_action']          = 'ação';
+$_['column_name']            = 'Departamento';
+$_['column_sort_order']      = 'Ordem na lista';
+$_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_name']             = 'Nome da Categoria';
-$_['entry_description']      = 'descrição';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword'] 	 = 'Meta tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Descrição';
-$_['entry_keyword']          = 'SEO Keyword';
-$_['entry_parent']           = 'principal';
-$_['entry_filter']           = 'filtros';
-$_['entry_store']            = 'lojas';
-$_['entry_image']            = 'imagem';
-$_['entry_top']              = 'topo';
-$_['entry_column']           = 'colunas';
-$_['entry_sort_order']       = 'Ordem de classificação';
-$_['entry_status']           = 'estado';
-$_['entry_layout']           = 'Substituir layout';
+$_['entry_name']             = 'Departamento';
+$_['entry_description']      = 'Descrição';
+$_['entry_meta_title'] 	     = 'Meta título';
+$_['entry_meta_keyword'] 	 = 'Meta palavras-chaves';
+$_['entry_meta_description'] = 'Meta descrição';
+$_['entry_keyword']          = 'Url amigável';
+$_['entry_parent']           = 'Departamento pai';
+$_['entry_filter']           = 'Filtros';
+$_['entry_store']            = 'Lojas';
+$_['entry_image']            = 'Imagem';
+$_['entry_top']              = 'Exibir no menu superior?';
+$_['entry_column']           = 'Colunas';
+$_['entry_sort_order']       = 'Ordem na lista';
+$_['entry_status']           = 'Situação';
+$_['entry_layout']           = 'Layout substituto';
 
 // Help
-$_['help_filter']            = '( Autocomplete )';
-$_['help_keyword']           = 'Não utilize espaços , substituindo os espaços com - e certifique-se a palavra-chave é único a nível mundial .';
-$_['help_top']               = 'Exibição na barra de menu superior. Só funciona para as categorias pai de topo.';
-$_['help_column']            = 'Número de colunas a ser usado para o fundo de três categorias. Só funciona para as categorias pai de topo.';
+$_['help_filter']            = '(autocompletar)';
+$_['help_keyword']           = 'Não utilize espaços, substituir os espaços por - e certifique-se que a palavra é globalmente exclusiva.';
+$_['help_top']               = 'A exibição no menu superior, só funciona para os departamentos pai.';
+$_['help_column']            = 'O número de colunas para organizar os departamentos inferiores em até 3 níveis. Só funciona para os departamentos pai.';
 
 // Error
-$_['error_warning']          = 'Aviso: Por favor, verifique a forma com cuidado os erros !';
-$_['error_permission']       = 'Atenção: Você não tem permissão para modificar categorias!';
-$_['error_name']             = 'Nome da categoria deve estar entre 2 e 32 caracteres !';
-$_['error_meta_title']       = 'Meta Título deve ser maior que 3 e menos de 255 caracteres !';
+$_['error_warning']          = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
+$_['error_permission']       = 'Atenção: Você não tem permissão para modificar os departamentos!';
+$_['error_name']             = 'O departamento deve ter entre 2 e 32 caracteres!';
+$_['error_meta_title']       = 'O meta título deve ter entre 3 e 255 caracteres!';

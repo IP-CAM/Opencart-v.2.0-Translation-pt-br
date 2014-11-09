@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'cupons Relatório';
+$_['heading_title']    = 'Relatório de cupons';
 
 // Text
-$_['text_list']        = 'Lista Cupom';
+$_['text_list']        = 'Listando cupons';
 
 // Column
-$_['column_name']      = 'Cupom Nome';
-$_['column_code']      = 'código';
-$_['column_orders']    = 'encomendas';
-$_['column_total']     = 'total';
-$_['column_action']    = 'ação';
+$_['column_name']      = 'Cupom';
+$_['column_code']      = 'Código';
+$_['column_orders']    = 'Pedidos';
+$_['column_total']     = 'Total';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_date_start'] = 'data de Início';
-$_['entry_date_end']   = 'data de Término';
+$_['entry_date_start'] = 'Data inicial';
+$_['entry_date_end']   = 'Data final';

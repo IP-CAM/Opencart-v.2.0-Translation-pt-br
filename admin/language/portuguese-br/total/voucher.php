@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Gift Voucher';
 
 // Text
-$_['text_total']       = 'Total de pedidos';
-$_['text_success']     = 'Sucesso : Você modificou Vale Presente total!';
-$_['text_edit']        = 'Editar Gift Voucher total';
+$_['text_total']       = 'Order Totals';
+$_['text_success']     = 'Success: You have modified gift voucher total!';
+$_['text_edit']        = 'Edit Gift Voucher Total';
 
 // Entry
-$_['entry_status']     = 'Estado';
-$_['entry_sort_order'] = 'Ordem de classificação';
+$_['entry_status']     = 'Status';
+$_['entry_sort_order'] = 'Sort Order';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar Vale Presente total!';
+$_['error_permission'] = 'Warning: You do not have permission to modify gift voucher total!';

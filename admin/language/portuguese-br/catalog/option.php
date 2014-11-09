@@ -1,40 +1,40 @@
 <?php
 // Heading
-$_['heading_title']       = 'opções';
+$_['heading_title']       = 'Opções';
 
 // Text
-$_['text_success']        = 'Sucesso : Você tem opções modificados !';
-$_['text_list']           = 'Lista de opções';
-$_['text_add']            = 'Adicionar Opção';
-$_['text_edit']           = 'Editar Opção';
-$_['text_choose']         = 'escolher';
-$_['text_select']         = 'selecionar';
-$_['text_radio']          = 'rádio';
-$_['text_checkbox']       = 'checkbox';
-$_['text_image']          = 'imagem';
-$_['text_input']          = 'entrada';
-$_['text_text']           = 'texto';
-$_['text_textarea']       = 'textarea';
-$_['text_file']           = 'arquivo';
-$_['text_date']           = 'data';
-$_['text_datetime']       = 'Data & amp; tempo';
-$_['text_time']           = 'tempo';
+$_['text_success']        = 'Opção modificada com sucesso!';
+$_['text_list']           = 'Listando opções';
+$_['text_add']            = 'Nova opção';
+$_['text_edit']           = 'Editando opção';
+$_['text_choose']         = 'Com opção de seleção';
+$_['text_select']         = 'Menu de seleção';
+$_['text_radio']          = 'Única seleção';
+$_['text_checkbox']       = 'Multipla seleção';
+$_['text_image']          = 'Imagem';
+$_['text_input']          = 'Campo de texto simples';
+$_['text_text']           = 'Texto em uma linha';
+$_['text_textarea']       = 'Texto em várias linhas';
+$_['text_file']           = 'Upload';
+$_['text_date']           = 'Data';
+$_['text_datetime']       = 'Data e hora';
+$_['text_time']           = 'Hora';
 
 // Column
-$_['column_name']         = 'Nome da opção';
-$_['column_sort_order']   = 'Ordem de classificação';
-$_['column_action']       = 'ação';
+$_['column_name']         = 'Opção';
+$_['column_sort_order']   = 'Ordem na lista';
+$_['column_action']       = 'Ação';
 
 // Entry
-$_['entry_name']          = 'Nome da opção';
-$_['entry_type']          = 'tipo';
-$_['entry_option_value']  = 'Opção Valor Nome';
-$_['entry_image']         = 'imagem';
-$_['entry_sort_order']    = 'Ordem de classificação';
+$_['entry_name']          = 'Opção';
+$_['entry_type']          = 'Tipo de opção';
+$_['entry_option_value']  = 'Valor';
+$_['entry_image']         = 'Imagem';
+$_['entry_sort_order']    = 'Ordem na lista';
 
 // Error
-$_['error_permission']    = 'Atenção: Você não tem permissão para modificar as opções !';
-$_['error_name']          = 'Nome da opção deve estar entre 1 e 128 caracteres !';
-$_['error_type']          = 'Atenção: Valores de Opção necessário!';
-$_['error_option_value']  = 'Opção Nome do valor deve estar entre 1 e 128 caracteres !';
-$_['error_product']       = 'Aviso: Esta opção não pode ser excluída como é atualmente atribuída a % s produtos !';
+$_['error_permission']    = 'Atenção: Você não tem permissão para modificar as opções!';
+$_['error_name']          = 'A opção deve ter entre 1 e 128 caracteres!';
+$_['error_type']          = 'O tipo de opção é obrigatório!';
+$_['error_option_value']  = 'O valor deve ter entre 1 e 128 caracteres!';
+$_['error_product']       = 'Atenção: Esta opção não pode ser excluída, pois está vinculada a %s produtos!';
